@@ -1,1 +1,4 @@
-
+import java.util.*;
+public class Hangmam{
+  public static void main(String[] aegs){
+    
